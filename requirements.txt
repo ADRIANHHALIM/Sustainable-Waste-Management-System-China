@@ -1,0 +1,16 @@
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+PyYAML
+onnx
+onnxruntime
+tflite-runtime; platform_system != "Windows"
+tensorflow  # optional, for TFLite conversion
+tqdm
+scikit-learn
